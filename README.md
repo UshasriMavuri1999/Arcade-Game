@@ -3,12 +3,12 @@ Arcade game set the goal of player to reach other grass Side without Hitting int
 
 ## Table of Contents
 
--   [Instructions](#instructions)
--   [How to Run](#howtorun)
--   [Tools used in this game](#toolsusedinthisgame)
--   [How I built the Game](#howibuiltthegame)
--   [ How it Works](#howitworks)
--   [Contributing](#contributing)
+-   [Instructions](#Instructions)
+-   [How to Run](#How-to-Run)
+-   [Tools used in this game](#Tools-used-in-this-game)
+-   [How I built the Game](#How-I-built-the-Game)
+-   [ How it Works](#How-it-Works)
+-   [Contributing](#Contributing)
 
 ## Instructions
 
